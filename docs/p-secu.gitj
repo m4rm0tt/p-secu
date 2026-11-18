@@ -2,7 +2,7 @@
   "projectName": "p-secu",
   "me": [
     "Esteban Madrazo",
-    "m4rm0tt"
+    "m4rm0t"
   ],
   "journalStartDate": null,
   "columns": [
@@ -39,5 +39,32 @@
       "source": "author"
     }
   ],
-  "exceptions": []
+  "exceptions": [
+    {
+      "id": "7e2406db-386f-41f0-a03b-e7523203c3fa",
+      "type": "commitless",
+      "author": [
+        "Esteban Madrazo",
+        "m4rm0t"
+      ],
+      "date": "2026-11-18T12:10:00.000Z",
+      "name": "Création du repo",
+      "description": "",
+      "duration": 20,
+      "status": ""
+    },
+    {
+      "id": "412d7cb9-07e0-4388-a3f5-8f59b5b62953",
+      "type": "commitless",
+      "author": [
+        "Esteban Madrazo",
+        "m4rm0t"
+      ],
+      "date": "2026-11-18T12:30:00.000Z",
+      "name": "Création de l'organigramme de Morse",
+      "description": "",
+      "duration": 60,
+      "status": ""
+    }
+  ]
 }
