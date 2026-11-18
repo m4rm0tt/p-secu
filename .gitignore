@@ -1,0 +1,45 @@
+
+# .NET build files
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+artifacts/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+*.DotSettings.user
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet
+*.nupkg
+*.snupkg
+
+# Logs
+*.log
+*.binlog
+
+# Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Environment and secrets
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*~
